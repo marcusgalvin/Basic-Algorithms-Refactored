@@ -1,0 +1,1 @@
+To help solidify my knowledge on basic JavaScript fundamentals, this repo will showcase refactored versions of algorithms I completed in the past.
